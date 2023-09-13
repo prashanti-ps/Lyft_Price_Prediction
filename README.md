@@ -29,7 +29,10 @@ To achieve our project goals, we followed these steps:
 
 3. **Model Evaluation:** We evaluated the performance of each regression model and calculated their respective scores.
 
-According to the parameters that we used for gauging the model performance, we found that the **Gradient Boosting Regressor** is the best model for Uber/Lyft price predictions.
+According to the parameters that we used for gauging the model performance, we found that the **Gradient Boosting Regressor** is the best model for Uber/Lyft price predictions:
+
+<img width="539" alt="image" src="https://github.com/prashanti-ps/Lyft_Price_Prediction/assets/78148121/1d7168ab-62b0-44a4-bd01-8dec4ea6da44">
+
 
 ## Project Results
 
